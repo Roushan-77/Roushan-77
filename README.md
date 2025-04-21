@@ -6,7 +6,7 @@
 
 <p align="center" style="max-width: 600px; font-size: 16px;">
 💻 <strong>B.Tech CSE (AI)</strong> student driven by a love for creativity and technology  
-<br>🧠 Passionate about <strong>Python, AI, blockchain</strong> & <strong>smart contract development</strong>  
+<br>🧠 Passionate about <strong>AI, blockchain</strong> & <strong>smart contract development</strong>  
 <br>📚 A lifelong learner who finds beauty in <em>code, logic, and poetry</em>  
 <br>🚀 On a mission to become an <strong>AI Engineer</strong> and build solutions that truly matter  
 </p>
