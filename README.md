@@ -1,7 +1,17 @@
+<!-- Centered About Me Section -->
+<div align="center">
 
-# 💫 About Me:
-## I'm Roushan Kumar<br><br>💻 B.Tech CSE (AI) student, passionate about tech and creativity  </br><br>🧠 Exploring Python, AI, blockchain & smart contract development  </br><br>📚 Lifelong learner with a love for code, logic, and poetry    </br><br>🚀 On a journey to become an AI engineer & build something impactful    
+# 💫 About Me  
+<h2>I'm <span style="color:#f9826c;">Roushan Kumar</span> 👋</h2>
 
+<p align="center" style="max-width: 600px; font-size: 16px;">
+💻 <strong>B.Tech CSE (AI)</strong> student driven by a love for creativity and technology  
+<br>🧠 Passionate about <strong>Python, AI, blockchain</strong> & <strong>smart contract development</strong>  
+<br>📚 A lifelong learner who finds beauty in <em>code, logic, and poetry</em>  
+<br>🚀 On a mission to become an <strong>AI Engineer</strong> and build solutions that truly matter  
+</p>
+
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/K.roushan_77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roushan-kumar-214a0528b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Roushan7710@gmail.com) 
