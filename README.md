@@ -16,7 +16,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/K.roushan_77) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roushan-kumar-214a0528b) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/yourusername) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/LLfJaULaMz/) 
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/roushan7710) 
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/roushan_77)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/kaneki25)
