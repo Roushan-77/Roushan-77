@@ -35,6 +35,21 @@
 ![Seaborn](https://img.shields.io/badge/seaborn-%230C4B33.svg?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=flat&logo=github&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-%23121011.svg?style=flat)
+![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-%23363636.svg?style=flat)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-%2300C7B7.svg?style=flat)
+![GenAI](https://img.shields.io/badge/Generative%20AI-%23FF4B4B.svg?style=flat)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%23150458.svg?style=flat)
+![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-%23FFB000.svg?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=flat)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-%2300599C.svg?style=flat)
+![Algorithms](https://img.shields.io/badge/Algorithms-%23FF6F00.svg?style=flat)
+![OOP](https://img.shields.io/badge/OOP-%234285F4.svg?style=flat)
+![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=flat)
+![Backend Development](https://img.shields.io/badge/Backend%20Development-%23007ACC.svg?style=flat)
+
 
 
 
