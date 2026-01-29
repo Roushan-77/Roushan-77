@@ -24,6 +24,8 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/roushan_77)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/kaneki25)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/roushan7710)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-FFA000.svg?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/roushas4si?tab=activity)
+
 
 
 # 💻 Tech Stack:
