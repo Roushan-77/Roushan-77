@@ -2,16 +2,19 @@
 <div align="center">
 
 # 💫 About Me  
-<h2>I'm <span style="color:#f9826c;">Roushan Kumar</span> 👋</h2>
 
-<p align="center" style="max-width: 600px; font-size: 16px;">
-💻 <strong>B.Tech CSE (AI)</strong> student driven by a love for creativity and technology  
-<br>🧠 Passionate about <strong>AI, blockchain</strong> & <strong>smart contract development</strong>  
-<br>📚 A lifelong learner who finds beauty in <em>code, logic, and poetry</em>  
-<br>🚀 On a mission to become an <strong>AI Engineer</strong> and build solutions that truly matter  
+<h2>Hi, I'm <span style="color:#f9826c;">Roushan Kumar</span> 👋</h2>
+
+<p align="center" style="max-width: 650px; font-size: 16px; line-height: 1.6;">
+🎓 <strong>B.Tech CSE (AI)</strong> student with a deep interest in building intelligent systems  
+<br>🧠 Exploring <strong>Artificial Intelligence</strong>, <strong>Blockchain</strong>, and <strong>Smart Contracts</strong>  
+<br>💻 Strong foundation in <strong>Python</strong>, <strong>Flask</strong>, <strong>SQL</strong>, and data-driven thinking  
+<br>✍️ I enjoy blending <em>logic with creativity</em> — coding by day, poetry by thought  
+<br>🚀 Focused on becoming an <strong>AI Engineer</strong> and creating tech that is practical, ethical, and impactful  
 </p>
 
 </div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/K.roushan_77) 
