@@ -1,4 +1,4 @@
-<!-- Centered About Me Section -->
+
 <div align="center">
 
 # 💫 About Me  
